@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 June, 2021 - 30 June, 2021
+Week: 25 June, 2021 - 01 July, 2021
 
 Python       4 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.57 % 
 Ruby         3 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
