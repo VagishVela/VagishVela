@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
-JavaScript   6 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.17 % 
-Ruby         6 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 % 
-Python       3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Other        2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-JSX          1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+JavaScript   5 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 % 
+Python       4 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.45 % 
+Ruby         4 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other        2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 <!--END_SECTION:waka-->
