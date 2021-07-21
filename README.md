@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-JavaScript   4 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.44 % 
-Python       2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Ruby         1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-TOML         1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Markdown     1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JavaScript   3 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.56 % 
+Python       2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 % 
+TOML         1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Markdown     1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Ruby         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 <!--END_SECTION:waka-->
