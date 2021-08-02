@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
 Ruby         4 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.62 % 
 JavaScript   1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
