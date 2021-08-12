@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2021 - 10 August, 2021
+Week: 05 August, 2021 - 11 August, 2021
 
-JavaScript   15 hrs 30 mins  ██████████████████████░░░   87.50 % 
-Ruby         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Svelte       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript   13 hrs 33 mins  ███████████████████▓░░░░░   78.35 % 
+Ruby         2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Svelte       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
