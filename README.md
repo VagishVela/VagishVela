@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-Svelte       8 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.56 % 
-JavaScript   3 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Ruby         2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-TypeScript   1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Svelte       9 hrs 10 mins   ███████████████▒░░░░░░░░░   61.58 % 
+TypeScript   1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JavaScript   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Ruby         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 <!--END_SECTION:waka-->
