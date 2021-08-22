@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
+Week: 15 August, 2021 - 21 August, 2021
 
-Svelte       11 hrs 13 mins  ████████████████▒░░░░░░░░   64.80 % 
-JSON         2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-TypeScript   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Svelte       9 hrs 56 mins   ███████████████▒░░░░░░░░░   61.48 % 
+JSON         2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+TypeScript   1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+JavaScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
