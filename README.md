@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
-Svelte       6 hrs 5 mins    ████████████████▒░░░░░░░░   65.59 % 
-JSX          1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-JavaScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Other        41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Ruby         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Svelte       4 hrs 22 mins   █████████████████▒░░░░░░░   69.36 % 
+JSX          1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Ruby         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
