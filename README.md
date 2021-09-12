@@ -2,11 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
-JSX          1 hr 4 mins     ███████████████░░░░░░░░░░   60.57 % 
-Ruby         20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-JavaScript   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript   10 mins         ████████████████░░░░░░░░░   64.11 % 
+JSON         5 mins          █████████░░░░░░░░░░░░░░░░   35.70 % 
 ```
 <!--END_SECTION:waka-->
