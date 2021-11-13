@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
 Ruby     2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
 ERB      2 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 % 
