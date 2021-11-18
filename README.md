@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2021 - 16 November, 2021
+Week: 11 November, 2021 - 17 November, 2021
 
 Ruby       3 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.21 % 
 JSX        3 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 % 
