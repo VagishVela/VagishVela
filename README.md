@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Ruby         3 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 % 
-ERB          3 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Svelte       2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-TypeScript   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-YAML         1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+ERB          4 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.93 % 
+Svelte       3 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Ruby         3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+TypeScript   2 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+YAML         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 <!--END_SECTION:waka-->
