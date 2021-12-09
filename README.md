@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-TypeScript   2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
-ERB          1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Other        1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Svelte       1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JavaScript   1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+TypeScript   6 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.84 % 
+Other        2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Svelte       1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+JSON         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
