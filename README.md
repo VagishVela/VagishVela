@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
-Other    4 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   31.58 % 
-YAML     3 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 % 
-Ruby     2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Docker   1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JSON     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Other    4 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.37 % 
+YAML     3 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 % 
+Ruby     1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Docker   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+JSON     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 <!--END_SECTION:waka-->
