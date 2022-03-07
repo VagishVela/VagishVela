@@ -3,14 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
+From: 27 February 2022 - To: 06 March 2022
 
-JavaScript   5 hrs 27 mins   ████████████▓░░░░░░░░░░░░   51.04 %
-TypeScript   1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-Ruby         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-PHP          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Markdown     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-GraphQL      23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+JavaScript   3 hrs 26 mins   ██████████████░░░░░░░░░░░   55.85 %
+TypeScript   1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
+PHP          54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
