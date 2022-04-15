@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-Ruby         4 hrs           ████████▓░░░░░░░░░░░░░░░░   34.51 %
-JavaScript   2 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-ERB          2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-Python       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-TypeScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript   4 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Ruby         4 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.52 %
+ERB          2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Python       1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+TypeScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
