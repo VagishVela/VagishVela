@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 August 2022 - To: 23 August 2022
+
+Svelte       17 mins         ███████████▓░░░░░░░░░░░░░   47.03 %
+Other        7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.92 %
 ```
 
 <!--END_SECTION:waka-->
