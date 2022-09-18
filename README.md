@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-TypeScript   1 hr 59 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 %
-JavaScript   1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-Python       1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JSON         1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-Markdown     41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-YAML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+TypeScript   1 hr 54 mins    ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+JavaScript   1 hr 51 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+JSON         1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Markdown     44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+YAML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
