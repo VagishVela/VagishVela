@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
+From: 19 January 2023 - To: 26 January 2023
 
-JSON         1 hr 33 mins    ██████████████████████▓░░   90.59 %
-PHP          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JSON         2 hrs 24 mins   █████████████████████▒░░░   85.96 %
+TypeScript   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
 ```
 
 <!--END_SECTION:waka-->
