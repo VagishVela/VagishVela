@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-JSON         1 hr 14 mins    ████████████████████████░   96.19 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JSON         1 hr 3 mins     ████████████████████████▒   97.39 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
