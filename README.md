@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 January 2023 - To: 05 February 2023
+From: 30 January 2023 - To: 06 February 2023
 
-JSON         1 hr 2 mins     ████████████████████████▒   97.20 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON         1 hr 18 mins    ██████████████████████░░░   88.09 %
+TypeScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
