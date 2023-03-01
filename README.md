@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 21 February 2023 - To: 28 February 2023
 
-Rust         1 hr 19 mins    ████████████▓░░░░░░░░░░░░   50.15 %
-Python       51 mins         ████████░░░░░░░░░░░░░░░░░   32.46 %
-Markdown     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python       51 mins         ███████████████████▓░░░░░   78.83 %
+JavaScript   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Java         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
