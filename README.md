@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-JavaScript   9 mins          ██████████████████▓░░░░░░   75.11 %
-Java         3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.31 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+CSS          1 min           ██████████████▒░░░░░░░░░░   57.65 %
+JavaScript   1 min           █████████▓░░░░░░░░░░░░░░░   38.46 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
