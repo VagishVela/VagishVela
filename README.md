@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-Python           43 mins         ██████████████████░░░░░░░   71.51 %
-Markdown         16 mins         ███████░░░░░░░░░░░░░░░░░░   27.48 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python           19 mins         ██████████████▒░░░░░░░░░░   57.81 %
+Markdown         13 mins         ██████████░░░░░░░░░░░░░░░   40.38 %
+Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
