@@ -3,9 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
-TeX   12 mins         █████████████████████████   100.00 %
+PHP   19 mins         ███████████████▒░░░░░░░░░   60.96 %
+TeX   12 mins         █████████▓░░░░░░░░░░░░░░░   39.04 %
 ```
 
 <!--END_SECTION:waka-->
