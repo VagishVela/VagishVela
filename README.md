@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 03 December 2023
+From: 04 November 2023 - To: 04 December 2023
 
 TypeScript   19 hrs 42 mins  ████████████████▒░░░░░░░░   65.53 %
 JSON         3 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
