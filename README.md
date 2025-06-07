@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 04 June 2025
+From: 06 May 2025 - To: 05 June 2025
 
 TypeScript   34 hrs 44 mins  ███████████▒░░░░░░░░░░░░░   45.65 %
 Markdown     11 hrs 52 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
