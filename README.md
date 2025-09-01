@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 29 August 2025
+From: 31 July 2025 - To: 30 August 2025
 
 Markdown     1 hr 54 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
 Bash         1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
