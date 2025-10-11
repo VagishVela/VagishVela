@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2025 - To: 08 October 2025
+From: 09 September 2025 - To: 09 October 2025
 
 Bash         33 mins         ██████████░░░░░░░░░░░░░░░   40.64 %
 TypeScript   19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 %
