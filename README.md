@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 11 November 2025
+From: 13 October 2025 - To: 12 November 2025
 
 Markdown     50 mins         ███████████░░░░░░░░░░░░░░   44.61 %
 Other        31 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
