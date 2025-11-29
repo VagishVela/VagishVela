@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2025 - To: 26 November 2025
+From: 28 October 2025 - To: 27 November 2025
 
-Markdown     16 mins         █████████████████▒░░░░░░░   69.01 %
-JSON         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Other        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
