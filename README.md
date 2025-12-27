@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 24 December 2025
+From: 25 November 2025 - To: 25 December 2025
 
 Markdown     2 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
 TypeScript   1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
