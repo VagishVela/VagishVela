@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 25 January 2026
+From: 27 December 2025 - To: 26 January 2026
 
 Python       51 mins         ████████▒░░░░░░░░░░░░░░░░   33.54 %
 Markdown     40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
