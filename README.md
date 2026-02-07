@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 04 February 2026
+From: 06 January 2026 - To: 05 February 2026
 
-Python       51 mins         ███████░░░░░░░░░░░░░░░░░░   28.42 %
-Markdown     50 mins         ███████░░░░░░░░░░░░░░░░░░   27.80 %
-Other        23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Git Config   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-TypeScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Python       51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Markdown     51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+Bash         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Other        23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+TypeScript   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
 ```
 
 <!--END_SECTION:waka-->
